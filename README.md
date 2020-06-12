@@ -1,6 +1,6 @@
 # Particle-Swarm-Optimization
 
-In this project, PSO Algorithm MATLAB code is provided and TSP which is a NP-hard problem is been modedled and optimized by PSO algorithm.
+In this project, PSO Algorithm MATLAB code is provided and TSP which is a NP-hard problem is been modeled and optimized by PSO algorithm.
 
 (PSO algorithm):
 
